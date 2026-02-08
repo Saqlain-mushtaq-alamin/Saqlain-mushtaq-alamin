@@ -26,16 +26,6 @@
 
 ---
 
-<!-- ===================== AI BRAIN ===================== -->
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    width="90%"
-    alt="AI animation"
-  />
-</p>
-
----
 
 ## 🧠 Who Am I (Beyond the Resume)
 
@@ -51,15 +41,9 @@ I enjoy breaking problems, rebuilding solutions, and shipping **clean, scalable 
 
 ---
 
-## 🧬 Current Focus (2026 Mode)
 
-- 🧠 Training ML models for real-world decision making  
-- ⚙️ Designing scalable **FastAPI** backends  
-- 📱 **Flutter + React Native** production apps  
-- 📊 Data-driven finance tools & automation  
-- ☁️ Cloud fundamentals & system design  
 
----
+
 
 ## 🧪 Signature Projects (What Makes Me Different)
 
@@ -87,7 +71,7 @@ System-level logic focused on performance & algorithms
 
 <!-- ===================== ULTIMATE SCI-FI GLASS FOOTER ===================== -->
  
-
+## I actually go by
 <p align="right">
   <img
     src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=7F00FF&center=true&vCenter=true&width=420&lines=saqlain"
@@ -107,4 +91,5 @@ System-level logic focused on performance & algorithms
   />
 </p>
 
-
+---
+---
