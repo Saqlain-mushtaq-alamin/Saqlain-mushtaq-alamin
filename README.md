@@ -47,8 +47,14 @@ I enjoy breaking problems, rebuilding solutions, and shipping **clean, scalable 
 
 ## 🧪 Signature Projects (What Makes Me Different)
 
+### 🤖 ARIA 
+Multimodal AI assistant powered by local llm for Windows systems
+
 ### 🧠 Finura  
 AI-powered finance tracker that analyzes spending behavior  
+
+### 🛜 Wifi Strength Scanner (wss)
+An all-inclusive tool for creating heatmaps and scanning WiFi signal strength.
 
 ### 📊 Finanalyzer  
 Accounting assistant for financial clarity & automation  
